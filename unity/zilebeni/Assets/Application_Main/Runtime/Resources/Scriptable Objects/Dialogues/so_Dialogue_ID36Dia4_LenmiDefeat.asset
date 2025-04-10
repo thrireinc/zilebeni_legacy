@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID36Dia4_LenmiDefeat
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID36Dia4_LenmiDefeat
+  dialogueId: 36
+  dialogueContent:
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Voc\xEA perde\u2026 E agora ter\xE1 que escolher quem pagar\xE1 o
+      pre\xE7o por seu fracasso."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Sacrifique um deles, e nunca esque\xE7a esse amargor da derrota e
+      impot\xEAncia. Porque \xE9 esse o sabor do abandono da Grande M\xE3e, a real
+      causadora de todo esse sofrimento."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}

@@ -1,0 +1,22 @@
+{
+    "name": "com.hiscomproject.main.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:332f0b2d024919c489a7863bbaa18da0",
+        "GUID:41bdd6506f5c4a04786c5b070ab75a4d",
+        "GUID:abaaccce04887744f9883a4246658467",
+        "GUID:310eb4609be1c41459e5ebb1bde5ac5a",
+        "GUID:4237a468895ff4622b504d121475cdfa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

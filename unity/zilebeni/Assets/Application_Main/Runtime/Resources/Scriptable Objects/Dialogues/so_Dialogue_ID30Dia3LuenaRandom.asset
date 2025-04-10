@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID30Dia3LuenaRandom
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID30Dia3LuenaRandom
+  dialogueId: 30
+  dialogueContent:
+  - speakerId: character_Luena
+    speakerName: Luena
+    sentence: "Voc\xEA \xE9 forte Niara, s\xF3 precisa de mais treino para aperfei\xE7oar
+      sua for\xE7a."
+    icon: {fileID: 21300000, guid: 0cc07916c7c12474a90755ec91e9c8ed, type: 3}
+    audio: {fileID: 0}

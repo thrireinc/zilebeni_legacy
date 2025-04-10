@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID94_NiaraThirdWin
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID94_NiaraThirdWin
+  dialogueId: 94
+  dialogueContent:
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Finalmente voc\xEA conseguiu me derrotar."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Admiro aqueles que n\xE3o desistem depois de algumas quedas e perdas."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "N\xE3o se preocupe\u2026 voc\xEA me derrotou, ent\xE3o est\xE1 enfim
+      livre da minha maldi\xE7\xE3o."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Mas nunca se esque\xE7a daquela que n\xE3o veio te salvar..."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: ...porque eu nunca esqueci.
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}

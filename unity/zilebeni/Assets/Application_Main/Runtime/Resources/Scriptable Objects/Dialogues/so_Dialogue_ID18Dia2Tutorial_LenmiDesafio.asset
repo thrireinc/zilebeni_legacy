@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID18Dia2Tutorial_LenmiDesafio
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID18Dia2Tutorial_LenmiDesafio
+  dialogueId: 18
+  dialogueContent:
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Como eu disse, humana insignificante\u2026 Voc\xEA n\xE3o pode me
+      derrotar, suas motiva\xE7\xF5es n\xE3o s\xE3o mais fortes do que as minhas
+      e voc\xEA \xE9 pat\xE9tica por me subestimar."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Voc\xEA ainda n\xE3o entendeu a dor de estar sozinho, de se sentir
+      imponente e n\xE3o ter ningu\xE9m para te ajudar. Ent\xE3o, te darei essa ajuda."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Eu, L\xE8nmi, a entidade da vingan\xE7a e do \xF3dio te amaldi\xE7oo
+      Niara a lutar comigo at\xE9 conseguir me derrotar ou eu queimarei cada canto
+      desta ilha aben\xE7oada."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Toda vez que voc\xEA for derrotada por mim, n\xE3o morrer\xE1, mas
+      ter\xE1 de escolher algu\xE9m para ser sacrificado em seu lugar como consequ\xEAncia
+      dos seus fracassos."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: O-oque? Como assim?
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "N\xE3o posso escolher algu\xE9m para morrer em meu lugar..."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "ME MATE DE UMA VEZ SE \xC9 O QUE QUER!"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "N\xE3o consegue escolher algu\xE9m?"
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Ser\xE1 que eu devo te ajudar nisso tamb\xE9m?"
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Essa vai ser a primeira e \xFAltima vez que vou escolher por voc\xEA."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Niara, preste bem aten\xE7\xE3o na dor que est\xE1 prestes a sentir
+      e nunca mais esque\xE7a-a."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}

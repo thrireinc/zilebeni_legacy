@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID15Dia2Tutorial_Lenmi
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID15Dia2Tutorial_Lenmi
+  dialogueId: 15
+  dialogueContent:
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "\xC9 s\xF3 isso que aquela entidade fraca tem?"
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Tremam de medo perante L\xE8nmi, aquele que foi ignorado pela Grande
+      M\xE3e quando era humano e sofreu nas m\xE3os de senhores de escravos."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Um escravo que sobreviveu com a pr\xF3pria ajuda at\xE9 sucumbir aos
+      abusos dos seus \u201Cdonos\u201D."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "EU CULTIVEI MEU \xD3DIO CONTRA AQUELA QUE DEVERIA ME PROTEGER, MAS
+      QUE ME DEU AS COSTAS QUANDO EU PEDI AJUDA."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "EU. QUE QUANDO MORRI, TINHA TANTO \xD3DIO EM MEU CORA\xC7\xC3O QUE
+      JUREI ME VINGAR DELA."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "E HOJE \xC9 O DIA, FINALMENTE MATAREI TODOS QUE A GRANDE M\xC3E PROTEGEU
+      E QUEIMAREI CADA CANTO DE ZILE BENI, AT\xC9 QUE ELA N\xC3O SEJA MAIS UMA ILHA
+      ABEN\xC7OADA."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}

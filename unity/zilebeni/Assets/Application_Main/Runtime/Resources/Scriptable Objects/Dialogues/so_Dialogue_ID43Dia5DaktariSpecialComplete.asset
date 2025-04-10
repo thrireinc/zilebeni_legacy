@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID43Dia5DaktariSpecialComplete
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID43Dia5DaktariSpecialComplete
+  dialogueId: 43
+  dialogueContent:
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Obrigado por me trazer isso, Niara. Apenas confie em mim e em algum
+      tempo eu te darei um presente especial e aben\xE7oado pela pr\xF3pria Grande
+      M\xE3e."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5211149299817326889
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8475705921356834461}
+  - component: {fileID: 5942323805457445122}
+  m_Layer: 0
+  m_Name: Flags Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8475705921356834461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5211149299817326889}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5942323805457445122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5211149299817326889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d167b4ad8ae32478fefc943ac1d39f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flagViews:
+  - flagName: 
+    flagType: 0
+    currentBooleanValue: 0
+    currentFloatValue: 0
+    currentStringValue: 
+  - flagName: isDead
+    flagType: 0
+    currentBooleanValue: 0
+    currentFloatValue: 0
+    currentStringValue: 
+  - flagName: isFading
+    flagType: 0
+    currentBooleanValue: 0
+    currentFloatValue: 0
+    currentStringValue: 
+  - flagName: isEnteringArena
+    flagType: 0
+    currentBooleanValue: 0
+    currentFloatValue: 0
+    currentStringValue: 

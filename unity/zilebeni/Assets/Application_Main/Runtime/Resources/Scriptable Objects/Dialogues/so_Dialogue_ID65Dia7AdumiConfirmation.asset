@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID65Dia7AdumiConfirmation
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID65Dia7AdumiConfirmation
+  dialogueId: 65
+  dialogueContent:
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "O que est\xE1 fazendo aqui? N\xE3o t\xE1 vendo que eu t\xF4 ocupada?"
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "E voc\xEA nem conseguiu ainda buscar o que eu pedi? S\xE9rio, s\xF3
+      venha falar comigo quando tiver o item."
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "Encontre quatro \xE1reas de BABOSA pelo mapa e as colete."
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}

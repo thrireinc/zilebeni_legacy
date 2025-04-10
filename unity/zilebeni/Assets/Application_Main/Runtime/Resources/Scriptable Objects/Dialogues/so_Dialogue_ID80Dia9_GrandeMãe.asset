@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: "so_Dialogue_ID80Dia9_GrandeM\xE3e"
+  m_EditorClassIdentifier: 
+  dialogueName: "so_Dialogue_ID80Dia9_GrandeM\xE3e"
+  dialogueId: 80
+  dialogueContent:
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "Desculpe meus filhos\u2026 N\xE3o fui capaz de proteg\xEA-los\u2026"
+    icon: {fileID: 0}
+    audio: {fileID: 0}
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "Voc\xEAs confiaram em mim, confiaram em meu poder e que eu era grande
+      o suficiente para proteg\xEA-los\u2026 Infelizmente, eu sou s\xF3 uma entidade
+      guiada pelo amor a todos os meus filhos, at\xE9 aqueles fora da ilha\u2026"
+    icon: {fileID: 0}
+    audio: {fileID: 0}
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "N\xE3o sou onipotente\u2026 N\xE3o sou onipresente e nem onisciente\u2026"
+    icon: {fileID: 0}
+    audio: {fileID: 0}
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "Mas eu prometo que cuidarei de suas almas e elas ser\xE3o aben\xE7oadas
+      tal qual eram em Zile Beni."
+    icon: {fileID: 0}
+    audio: {fileID: 0}
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "E para voc\xEA que est\xE1 al\xE9m do nosso universo e assiste nossas
+      vidas\u2026 O seu poder sobre nosso mundo \xE9 maior que o meu, voc\xEA \xE9
+      quem pode decidir recome\xE7ar e impedir o nosso fim\u2026"
+    icon: {fileID: 0}
+    audio: {fileID: 0}
+  - speakerId: "character_GrandeM\xE3e"
+    speakerName: "Grande M\xE3e"
+    sentence: "Tor\xE7o pra que seja da sua vontade\u2026 Salvar a todos."
+    icon: {fileID: 0}
+    audio: {fileID: 0}

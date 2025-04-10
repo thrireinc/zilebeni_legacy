@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID06Dia1Tutorial_Adumi
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID06Dia1Tutorial_Adumi
+  dialogueId: 6
+  dialogueContent:
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Oi, Adumi. Vim buscar um tempero que minha m\xE3e pediu para voc\xEA."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "Ah... \xE9 voc\xEA quem veio pegar o pedido da Amai?"
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "Que pena... preferiria mil vezes ter que caminhar at\xE9 a cozinha
+      da vila e entregar pessoalmente a ela."
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Da pr\xF3xima vez, ent\xE3o, \xE9 s\xF3 ir at\xE9 l\xE1! J\xE1 que
+      eu tamb\xE9m preferiria qualquer outra coisa ao inv\xE9s de ver essa sua carinha
+      nojenta."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Pelo amor da Grande M\xE3e... me d\xE1 logo esse tempero para eu sair
+      daqui."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Adumi
+    speakerName: Adumi
+    sentence: "Juro que nem sei como voc\xEAs s\xE3o m\xE3e e filha... ela \xE9 uma
+      das melhores pessoas da vila e voc\xEA \xE9\u2026 voc\xEA."
+    icon: {fileID: 21300000, guid: d07a0f2544b6cbe49b8d9c9cda1ec0e0, type: 3}
+    audio: {fileID: 0}

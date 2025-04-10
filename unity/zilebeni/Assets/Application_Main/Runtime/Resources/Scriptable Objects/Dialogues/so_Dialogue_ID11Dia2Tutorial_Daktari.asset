@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID11Dia2Tutorial_Daktari
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID11Dia2Tutorial_Daktari
+  dialogueId: 11
+  dialogueContent:
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Bom dia, anci\xE3o. Como est\xE1?"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Minha m\xE3e falou que o senhor queria falar comigo."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: Bom dia. Niara. Estou bem sim, obrigado
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "N\xE3o \xE9 nada demais... apenas te parabenizar pelo seu progresso
+      com o treinamento de guerreira."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Luena me contou que voc\xEA tem melhorado cada vez mais."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Fico feliz em saber que a general ache que estou progredindo, mesmo
+      que ainda n\xE3o tenhamos treinado t\xE9cnicas de ataque."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Ora, crian\xE7a! Um guerreiro n\xE3o \xE9 s\xF3 aquele que batalha
+      em guerras ou tem a maior for\xE7a."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Ser um guerreiro \xE9 proteger aqueles que n\xE3o conseguem fazer
+      isso sozinhos."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Inclusive os que est\xE3o para al\xE9m dos dom\xEDnios m\xE1gicos
+      de Zile Beni e da Grande M\xE3e."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: O senhor quer dizer... como o meu pai fazia?
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Exatamente como o seu pai! Ele era um dos nossos melhores guerreiros
+      e salvou muitos da escravid\xE3o."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Ele sempre acreditou em voc\xEA e no seu potencial, Niara."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Obrigada, anci\xE3o. Saber dessas coisas me deixa com o cora\xE7\xE3o
+      apertado de saudade."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Todo dia agrade\xE7o por ter tido bons momentos com ele... e por ainda
+      ter minha m\xE3e comigo."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Ah! Por falar na sua m\xE3e\u2026 lembra quando voc\xEA pediu para
+      a Grande M\xE3e que ela lhe trouxesse de volta o cajado do seu pai?"
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Me lembro... mas o que isso tem haver com a minha m\xE3e?"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "Depois que seu pedido foi recusado, Amai ia ao templo orar e suplicar
+      para que a Grande M\xE3e todos os dias..."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: ...pedindo para que fosse misericordiosa e atendesse o seu pedido.
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "E ent\xE3o... uma coisa maravilhosa aconteceu!"
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "O qu\xEA...?"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "A Grande M\xE3e falou comigo! E disse que, depois de muito ouvir o
+      desejo sincero de uma m\xE3e que ama muito sua filha\u2026"
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "...resolveu atender o seu pedido e entregou o antigo cajado de seu
+      pai, aben\xE7oando-o para que voc\xEA o usasse novamente."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}

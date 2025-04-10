@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID90_DaktariThirdWin
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID90_DaktariThirdWin
+  dialogueId: 90
+  dialogueContent:
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Obrigada por estar comigo desde o come\xE7o, anci\xE3o."
+    icon: {fileID: 21300000, guid: ee55d243d0edfc34f967b6c166161917, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "De agora em diante honrarei meus pais me dedicando a Grande M\xE3e."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: Enquanto estiver em Zile Beni, eu estarei do seu lado...
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Daktari
+    speakerName: Daktari
+    sentence: "E a Grande M\xE3e sempre olhando por ti."
+    icon: {fileID: 21300000, guid: 32a563fe5a450b442a49f30e61577ff6, type: 3}
+    audio: {fileID: 0}

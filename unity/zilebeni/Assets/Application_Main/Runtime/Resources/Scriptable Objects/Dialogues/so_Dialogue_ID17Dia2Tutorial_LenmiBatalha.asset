@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID17Dia2Tutorial_LenmiBatalha
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID17Dia2Tutorial_LenmiBatalha
+  dialogueId: 17
+  dialogueContent:
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "EI L\xC8NMI!"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "N\xC3O ACHE QUE PODE VIR AT\xC9 A ILHA ABEN\xC7OADA DA GRANDE M\xC3E
+      E AMEA\xC7AR A TODOS, S\xD3 POR VINGAN\xC7A!"
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "\xC9 mesmo?"
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: E quem vai me impedir?
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Lenmi
+    speakerName: Lenmi
+    sentence: "Por qu\xEA eu n\xE3o vejo sua Grande M\xE3e aqui para isso, e voc\xEAs
+      humanos s\xE3o fracos demais para vir contra mim, que sou uma entidade."
+    icon: {fileID: 21300000, guid: 5a471c86b14542f409aa120b58bf6a98, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: Eu vou te impedir.
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Em nome da Grande M\xE3e que nos ama e protege, eu vou te derrotar
+      e te impedir L\xE8nmi."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}

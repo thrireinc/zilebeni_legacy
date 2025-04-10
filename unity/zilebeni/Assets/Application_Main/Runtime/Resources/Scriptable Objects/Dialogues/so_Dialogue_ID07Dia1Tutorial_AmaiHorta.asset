@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524271193aa441aa84eba3efd64f23d5, type: 3}
+  m_Name: so_Dialogue_ID07Dia1Tutorial_AmaiHorta
+  m_EditorClassIdentifier: 
+  dialogueName: so_Dialogue_ID07Dia1Tutorial_AmaiHorta
+  dialogueId: 7
+  dialogueContent:
+  - speakerId: character_Amai
+    speakerName: Amai
+    sentence: Muito obrigada, minha filha!
+    icon: {fileID: 21300000, guid: 490294f374b60b34881d28e9364b1608, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Amai
+    speakerName: Amai
+    sentence: "Agora, se n\xE3o for pedir muito, pode ir at\xE9 a horta da vila e
+      pegar uma cesta que os cuidadores separaram pra mim?"
+    icon: {fileID: 21300000, guid: 490294f374b60b34881d28e9364b1608, type: 3}
+    audio: {fileID: 0}
+  - speakerId: character_Niara
+    speakerName: Niara
+    sentence: "Claro, m\xE3e! Sem problema nenhum."
+    icon: {fileID: 21300000, guid: c6485e1d61aedaf4a9475bf958b1f17a, type: 3}
+    audio: {fileID: 0}
